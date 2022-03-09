@@ -1,0 +1,22 @@
+{
+  "employee": [
+    {
+      "name": "Selim",
+      "department": "Bilisim",
+      "salary": 9850,
+      "id": 1
+    },
+    {
+      "name": "serdar",
+      "department": "energy",
+      "salary": 4250,
+      "id": 2
+    },
+    {
+      "name": "Anil Kaan",
+      "department": "uluslararasi",
+      "salary": 10000,
+      "id": 3
+    }
+  ]
+}
